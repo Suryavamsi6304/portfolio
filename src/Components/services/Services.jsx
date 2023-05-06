@@ -16,23 +16,23 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <AiOutlineCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>Wireframing</p>
             </li>
             <li>
               <AiOutlineCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>Prototyping</p>
             </li>
             <li>
               <AiOutlineCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>Conceptual Design</p>
             </li>
             <li>
               <AiOutlineCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>Impact measuring test</p>
             </li>
             <li>
               <AiOutlineCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>Creating urgency to act now</p>
             </li>
           </ul>
         </article>
@@ -44,27 +44,27 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <AiOutlineCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>Frontend using React</p>
             </li>
             <li>
               <AiOutlineCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>Backend using MongoDB, Express and Node JS</p>
             </li>
             <li>
               <AiOutlineCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>API Integration</p>
             </li>
             <li>
               <AiOutlineCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>State Management using Redux</p>
             </li>
             <li>
               <AiOutlineCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>DB Integration and Deployment</p>
             </li>
             <li>
               <AiOutlineCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>API Design and Create</p>
             </li>
           </ul>
         </article>
@@ -76,23 +76,23 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <AiOutlineCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>Youtuber with 5k+ subscribers</p>
             </li>
             <li>
               <AiOutlineCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>Coding Educator role</p>
             </li>
             <li>
               <AiOutlineCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>Teaching programming videos</p>
             </li>
             <li>
               <AiOutlineCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>Freelance Content Creator</p>
             </li>
             <li>
               <AiOutlineCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>Shooting value adding videos</p>
             </li>
           </ul>
         </article>
