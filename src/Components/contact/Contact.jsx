@@ -40,8 +40,8 @@ const Contact = () => {
           <article className="contact__option">
             <MdEmail className="contact__option-icon" />
             <h4>Email</h4>
-            <h5>priyanshujha14@gmail.com</h5>
-            <a href="mailto:priyanshujha14@gmail.com" target="_blank">
+            <h5>suryavamsimarrapu@gmail.com</h5>
+            <a href="mailto:suryavamsimarrapu@gmail.com" target="_blank">
               Send a message
             </a>
           </article>
@@ -49,7 +49,7 @@ const Contact = () => {
             <BsMessenger className="contact__option-icon" />
             <h4>Messenger</h4>
             <h5>Digitizer Media</h5>
-            <a href="https://m.me/priyanshu.jha.777" target="_blank">
+            <a href="" target="_blank">
               Send a message
             </a>
           </article>
@@ -58,7 +58,7 @@ const Contact = () => {
             <h4>WhatsApp</h4>
             <h5></h5>
             <a
-              href="https://api.whatsapp.com/send?phone=919113193790"
+              href="https://api.whatsapp.com/send?phone=916304112305"
               target="_blank"
             >
               Send a message

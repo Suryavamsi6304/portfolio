@@ -22,26 +22,25 @@ const About = () => {
             <article className="about__card">
               <FaAward className="about__icon" />
               <h5>Experience</h5>
-              <small>3 Years working</small>
+              <small>1 Year working</small>
             </article>
 
             <article className="about__card">
               <ImUsers className="about__icon" />
-              <h5>Clients</h5>
-              <small>200+ worldwide</small>
+              <h5>Colaborated</h5>
+              <small>5+</small>
             </article>
 
             <article className="about__card">
               <BsFolderFill className="about__icon" />
               <h5>Projects</h5>
-              <small>10 completed</small>
+              <small>6 completed</small>
             </article>
           </div>
           <p>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Beatae
-            voluptatibus vero harum architecto dolorem quo quibusdam animi
-            totam, consectetur, sit illo aut velit iusto porro et. Fuga neque
-            aliquam pariatur.
+          At Capgemini, my role as a Software Analyst leverages my proficiency in Core Java, Jenkins, and Git, tools I've honed during my academic tenure at Lovely Professional University. Our team's focus on delivering robust solutions is a constant drive for my professional development.
+          <br></br>
+          My commitment to learning was echoed in my internship at CodeTantra, where I contributed to projects that reinforced my technical skills. Balancing education and real-world experience, I am propelling towards a future where I can innovate and excel in the evolving tech landscape.
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk

@@ -11,44 +11,44 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: "Tesla Clone",
-    github: "https://github.com/cleverprogrammer77/tesla-clone",
-    demo: "https://theteslaclone.netlify.app",
+    title: "Portfolio",
+    github: "https://github.com/Suryavamsi6304/portfolio",
+    
   },
   {
     id: 2,
-    image: IMG2,
-    title: "YouTube Clone",
-    github: "https://github.com/cleverprogrammer77/youtube-clone",
-    demo: "https://theyoutubeclone.netlify.app",
+    image: IMG4,
+    title: "E-Commerce",
+    github: "https://github.com/Suryavamsi6304/mern-ecommerce-app",
+    demo: "",
   },
   {
     id: 3,
     image: IMG3,
     title: "AI Rock Paper Scissor",
     github: "https://github.com/cleverprogrammer77/rockpaperAIML",
-    demo: "https://github.com/cleverprogrammer77/rockpaperAIML",
+    demo: "",
   },
   {
     id: 4,
-    image: IMG4,
-    title: "MERN E-commerce",
-    github: "https://github.com/cleverprogrammer77/mern-ecommerce",
-    demo: "https://github.com/cleverprogrammer77/mern-ecommerce",
+    image: IMG2,
+    title: "Restauran Website",
+    github: "https://github.com/Suryavamsi6304/mern-ecommerce-app",
+    demo: "",
   },
   {
     id: 5,
     image: IMG5,
-    title: "Quote Generator",
-    github: "https://github.com/cleverprogrammer77/quote-generator",
-    demo: "https://github.com/cleverprogrammer77/quote-generator",
+    title: "Math Based Captcha",
+    github: "https://github.com/Suryavamsi6304",
+    demo: "",
   },
   {
     id: 6,
     image: IMG6,
-    title: "Dice Game",
-    github: "https://github.com/cleverprogrammer77/javascript-projects",
-    demo: "https://github.com/cleverprogrammer77/javascript-projects",
+    title: "Blood Donation",
+    github: "https://github.com/Suryavamsi6304/Blood-donation",
+    demo: "",
   },
 ];
 
@@ -70,9 +70,9 @@ const Portfolio = () => {
                 <a href={github} className="btn" target="blank">
                   Github
                 </a>
-                <a href={demo} className="btn btn-primary" target="_blank">
+                {/* <a href={demo} className="btn btn-primary" target="_blank">
                   Live Demo
-                </a>
+                </a> */}
               </div>
             </article>
           );

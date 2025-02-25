@@ -6,93 +6,93 @@ const Services = () => {
   return (
     <section id="services">
       <h5>What I Offer</h5>
-      <h2>Services</h2>
+      <h2>Experience</h2>
 
       <div className="container services__container">
         <article className="service">
           <div className="service__head">
-            <h3>UI/UX Design</h3>
+            <h3>DevOps Trainee</h3>
           </div>
           <ul className="service__list">
             <li>
               <AiOutlineCheck className="service__list-icon" />
-              <p>Wireframing</p>
+              <p>Linux Fundamentals</p>
             </li>
             <li>
               <AiOutlineCheck className="service__list-icon" />
-              <p>Prototyping</p>
+              <p>Git & GitHub</p>
             </li>
             <li>
               <AiOutlineCheck className="service__list-icon" />
-              <p>Conceptual Design</p>
+              <p>Jenkins, GitHub Actions, GitLab CI/CD</p>
             </li>
             <li>
               <AiOutlineCheck className="service__list-icon" />
-              <p>Impact measuring test</p>
+              <p>Shell Scripting </p>
             </li>
             <li>
               <AiOutlineCheck className="service__list-icon" />
-              <p>Creating urgency to act now</p>
+              <p>Collaboration & Communication</p>
             </li>
           </ul>
         </article>
         {/* END OF UI/UX */}
         <article className="service">
           <div className="service__head">
-            <h3>Web Development</h3>
+            <h3>C++ Intern</h3>
           </div>
           <ul className="service__list">
             <li>
               <AiOutlineCheck className="service__list-icon" />
-              <p>Frontend using React</p>
+              <p>C++ Fundamentals</p>
             </li>
             <li>
               <AiOutlineCheck className="service__list-icon" />
-              <p>Backend using MongoDB, Express and Node JS</p>
+              <p>Object-Oriented Programming (OOPs)</p>
             </li>
             <li>
               <AiOutlineCheck className="service__list-icon" />
-              <p>API Integration</p>
+              <p>Standard Template Library (STL)</p>
             </li>
             <li>
               <AiOutlineCheck className="service__list-icon" />
-              <p>State Management using Redux</p>
+              <p>Advanced C++ Features</p>
             </li>
             <li>
               <AiOutlineCheck className="service__list-icon" />
-              <p>DB Integration and Deployment</p>
+              <p>Active Listening</p>
             </li>
             <li>
               <AiOutlineCheck className="service__list-icon" />
-              <p>API Design and Create</p>
+              <p> Understanding & Comprehension</p>
             </li>
           </ul>
         </article>
         {/* END OF Web Development */}
         <article className="service">
           <div className="service__head">
-            <h3>Content Creation</h3>
+            <h3>Certifications</h3>
           </div>
           <ul className="service__list">
             <li>
               <AiOutlineCheck className="service__list-icon" />
-              <p>Youtuber with 5k+ subscribers</p>
+              <p>SQL(Basic)</p>
             </li>
             <li>
               <AiOutlineCheck className="service__list-icon" />
-              <p>Coding Educator role</p>
+              <p>Java(Basic)</p>
             </li>
             <li>
               <AiOutlineCheck className="service__list-icon" />
-              <p>Teaching programming videos</p>
+              <p>JavaScript(Basic)</p>
             </li>
             <li>
               <AiOutlineCheck className="service__list-icon" />
-              <p>Freelance Content Creator</p>
+              <p>C++</p>
             </li>
             <li>
               <AiOutlineCheck className="service__list-icon" />
-              <p>Shooting value adding videos</p>
+              <p>Computer Networking</p>
             </li>
           </ul>
         </article>

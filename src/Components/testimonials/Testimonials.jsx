@@ -18,34 +18,34 @@ import 'swiper/css/pagination';
 const data = [
   {
     avatar: AVTR1,
-    name: "Roshani Singh",
+    name: "Swetha",
     review:
-      "Deleniti quod dignissimos veritatis fugit explicabo illo? Fugit voluptate impedit eaque, sint debitis ex deleniti vitae doloribus voluptatum facere earum neque quaerat illum nihil vero inventore aperiam optio voluptas.",
+      "We have successfully worked together on multiple projects, Our teamwork, skills, and dedication have contributed to impactful solutions and effective collaboration.",
   },
   {
     avatar: AVTR2,
-    name: "Keshav Vats",
+    name: "Pavan",
     review:
-      "Deleniti quod dignissimos veritatis fugit explicabo illo? Fugit voluptate impedit eaque, sint debitis ex deleniti vitae doloribus voluptatum facere earum neque quaerat illum nihil vero inventore aperiam optio voluptas.",
+      "We have successfully worked together on multiple projects, Our teamwork, skills, and dedication have contributed to impactful solutions and effective collaboration.",
   },
   {
     avatar: AVTR3,
-    name: "Prabhakar Singh",
+    name: "Varun kumar",
     review:
-      "Deleniti quod dignissimos veritatis fugit explicabo illo? Fugit voluptate impedit eaque, sint debitis ex deleniti vitae doloribus voluptatum facere earum neque quaerat illum nihil vero inventore aperiam optio voluptas.",
+      "We have successfully worked together on multiple projects, Our teamwork, skills, and dedication have contributed to impactful solutions and effective collaboration.",
   },
   {
     avatar: AVTR4,
-    name: "Dina Steven",
+    name: "Priya",
     review:
-      "Deleniti quod dignissimos veritatis fugit explicabo illo? Fugit voluptate impedit eaque, sint debitis ex deleniti vitae doloribus voluptatum facere earum neque quaerat illum nihil vero inventore aperiam optio voluptas.",
+      "We have successfully worked together on multiple projects, Our teamwork, skills, and dedication have contributed to impactful solutions and effective collaboration.",
   },
 ];
 
 const Testimonials = () => {
   return (
     <section id="testimonials">
-      <h5>Review from clients</h5>
+      <h5>Collaborators</h5>
       <h2>Testimonials</h2>
 
       <Swiper className="container testimonials__container"
